@@ -5,7 +5,6 @@ git checkout myBranch
 git rebase -i myBranch~4 myBranch
 
 # at the interactive screen
-
 # choose fixup for commit: 2 / 3 / 4
 
 # force push the squashed commits
